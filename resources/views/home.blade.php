@@ -47,9 +47,9 @@
                 </div>
                 <p class="text-xs leading-relaxed text-stone-500">{{ $project['description'] }}</p>
                 @if ($project['url'])
-                    </a>
+                </a>
                 @else
-                    </div>
+                </div>
                 @endif
             @endforeach
         </div>
