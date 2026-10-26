@@ -526,7 +526,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^8.1",
+                "php": "^8.5",
                 "symfony/http-foundation": "^5.4|^6.4|^7.3|^8"
             },
             "require-dev": {
@@ -11662,7 +11662,7 @@
         },
         {
             "name": "symfony/yaml",
-            "version": "v8.0.8",
+            "version": ">=8.0.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/yaml.git",
@@ -11713,7 +11713,7 @@
             "description": "Loads and dumps YAML files",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/yaml/tree/v8.0.8"
+                "source": "https://github.com/symfony/yaml/tree/v8.0.12"
             },
             "funding": [
                 {
