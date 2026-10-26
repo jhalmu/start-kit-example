@@ -1,4 +1,4 @@
-name: Update Bun lockfile
+name: Update Bun lockfile 
 
 on:
   workflow_dispatch:
